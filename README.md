@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FahadMehboob
-- 👀 I’m interested in 
+- 👀 I'm interested in becoming full-stack flutter developer
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/fahad-mehboob/
 - 📫 How to reach me fahad.fakkyf1@gmail.com
