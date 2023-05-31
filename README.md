@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @FahadMehboob
-- 👀 I'm interested in becoming full-stack flutter developer
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/fahad-mehboob/
-- 📫 How to reach me fahad.fakkyf1@gmail.com
+# 👋 Welcome to My Profile!
 
-<!---
-FahadMehboob/FahadMehboob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Fahad Mehboob, a passionate Flutter developer on a journey to become a full-stack Flutter developer.
+
+## 👀 About Me
+
+- 🌱 I'm currently focused on mastering Flutter and building amazing mobile apps.
+- 💼 I'm open to exciting job opportunities and collaboration projects.
+- 📫 You can reach me at fahad.fakkyf1@gmail.com or connect with me on LinkedIn: [Fahad Mehboob](https://www.linkedin.com/in/fahad-mehboob/).
+
+## ⚡️ Let's Connect!
+
+Feel free to explore my repositories, check out my projects, and get in touch with me. I'm always excited to collaborate on interesting projects and connect with fellow developers.
+
