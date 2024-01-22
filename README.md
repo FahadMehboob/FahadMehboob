@@ -1,36 +1,56 @@
-# 👋 Welcome to My Profile!
+<h1 align="center">Hi 👋, I'm Fahad Mehboob</h1>
+<h3 align="center">A passionate Flutter Developer From Pakistan</h3>
 
-Hi there! I'm Fahad Mehboob, a passionate Flutter developer on a journey to become a full-stack Flutter developer. I love creating beautiful and functional mobile applications that provide a great user experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmehboob&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmehboob" /> </p>
 
-## 📚 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadmehboob" alt="fahadmehboob" /></a> </p>
 
-- 🔭 I'm currently focused on mastering Flutter and building amazing mobile apps.
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in app development.
-- 💼 I'm open to exciting job opportunities, freelance work, and collaboration projects.
-- 🎓 I hold a Bachelor's degree in Computer Science and have hands-on experience in various programming languages and frameworks.
+- 🔭 I’m currently working on **Flutter**
 
-## 🚀 Skills
+- 🌱 I’m currently learning **Backend**
 
-- Flutter and Dart
-- Firebase
-- RESTful APIs
-- UI/UX design
-- Version control (Git)
+- 💬 Ask me about **Flutter, SEO, Web Development**
 
-## 📫 How to Reach Me
+- 📫 How to reach me **fahad.fakky@hotmail.com**
 
-- 📧 Email: fahad.fakkyf1@gmail.com
-- 💼 LinkedIn: [Fahad Mehboob](https://www.linkedin.com/in/fahad-mehboob/)
+- ⚡ Fun fact **Did you know that I love to explore tasty food items? Whether it's coding or discovering new dishes, I enjoy the process of savoring every moment of innovation!**
 
-## 📱 Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fahad-mehboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-mehboob" height="30" width="40" /></a>
+<a href="https://fb.com/fahad.fakky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad.fakky" height="30" width="40" /></a>
+<a href="https://instagram.com/fahadfakky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadfakky" height="30" width="40" /></a>
+</p>
 
-Check out some of my noteworthy projects:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a><a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" alt="xd" width="48" height="48"/>
+  </a>
+</p>
 
-- [Project 1](https://github.com/FahadMehboob/Covid-19-TrackerApp.git): **COVID-19 Tracker App**: Flutter-based mobile application for real-time tracking of COVID-19 cases worldwide.
-- [Project 2](https://github.com/FahadMehboob/Calculator-App.git): **Calculator App**: A Flutter-based mobile application that provides a fully functional calculator with a sleek and user-friendly interface. Perform basic arithmetic operations, including addition, subtraction, multiplication, and division, with ease. This app is designed to be intuitive and efficient, allowing users to perform quick calculations on their mobile devices.
-- [Project 3](https://github.com/FahadMehboob/WhatsApp-UI.git): **WhatsApp UI**: A Flutter-based mobile application that replicates the user interface of the popular messaging app, WhatsApp. Experience a visually appealing and functional chat interface, complete with features like sending text messages, sharing images, and displaying online/offline status. This project aims to showcase the ability to recreate a familiar and widely-used app interface using Flutter's powerful UI capabilities.
 
-## 🌟 Let's Connect!
-
-Feel free to explore my repositories, check out my projects, and get in touch with me. I'm always excited to collaborate on interesting projects and connect with fellow developers.
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadmehboob&show_icons=true&locale=en" alt="fahadmehboob" /></p>
